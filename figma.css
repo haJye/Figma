@@ -187,7 +187,10 @@ main p{
         left: 550.39px;
         top: 299.25px;
     }
-    .photo2, .back2{
+    .back2{
+        display:none;
+    }
+    .photo2{
         display:none;
     }
     .one h1{
